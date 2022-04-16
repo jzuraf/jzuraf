@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jzuraf
 - 👀 I’m interested in Front-End, UX & UI
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Mobile Apps & Games
+- 💞️ 
 - 📫 How to reach me: josephzuraf@gmail.com
 
 <!---

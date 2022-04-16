@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End, UX & UI
 - 🌱 I’m currently learning Javascript
 - 💞️ 
-- 📫 How to reach me: josephzuraf@gmail.com
+- 📫 How to reach me: 
 
 <!---
 jzuraf/jzuraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
